@@ -1,0 +1,18 @@
+img{
+    margin: 20px;
+    border-radius: 20px;
+    width: 300px;
+    /* height: 180px; */
+    object-fit: contain;
+    }
+
+    #root {
+
+        height: 100vh;
+        width: 100%;
+        text-align: center;
+      }
+
+   .filters{
+    display: flex;
+   }

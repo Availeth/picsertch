@@ -1,0 +1,23 @@
+.col-1{
+/* display: flex; */
+place-content: center;
+align-content: center;
+
+}
+
+.bg{
+    margin: 0;
+    background-image: url(/src/assets/bf9a415f-b758-4c0d-a820-334370772ec3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+@media only screen and (max-width: 450px){
+    .hero{
+        display: grid;
+        padding-bottom: 200px;
+
+
+    }
+}
